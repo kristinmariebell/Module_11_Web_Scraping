@@ -15,6 +15,6 @@ and 'month 9' has the highest pressure values (around 975)
 I found the amount of terrestrial days in a Martian year by researching that the degree of solar longitude is what determines
 the length of a year. I used the solar longitude data and the terrestrial_data data to determine that there are 687 
 earth days in a Martian year
-I then plotted all minimun temperature data collected
+I then plotted all minimun temperature data collected and exported the DataFrame to a CSV file
 
 I used ChatGPT for help with some coding questions, and referred to the module activities for coding examples
